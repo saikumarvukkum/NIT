@@ -8,6 +8,6 @@ public class A {
     	   return new Date();
        }
        public void m1() {
-    	   System.out.println("A.m1()");
+    	   System.out.println("A.m1()12");
        }
 }
