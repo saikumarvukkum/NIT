@@ -7,4 +7,7 @@ public class A {
     	   int y=25;
     	   return new Date();
        }
+       public void m1() {
+    	   System.out.println("A.m1()");
+       }
 }
