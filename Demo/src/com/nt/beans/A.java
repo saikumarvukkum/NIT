@@ -17,4 +17,8 @@ public class A {
        public void m2() {
     	   System.out.println("A.m2()");
        }
+       
+       public void master() {
+    	   System.out.println("A.master()");
+       }
 }
