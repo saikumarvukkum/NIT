@@ -19,6 +19,6 @@ public class A {
        }
        
        public void master() {
-    	   System.out.println("A.master()");
+    	   System.out.println("A.master() xyasasas");
        }
 }
